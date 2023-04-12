@@ -2,10 +2,10 @@ LICENCE.txt
 README.md
 pyproject.toml
 setup.cfg
-src/basicpkg.egg-info/PKG-INFO
-src/basicpkg.egg-info/SOURCES.txt
-src/basicpkg.egg-info/dependency_links.txt
-src/basicpkg.egg-info/top_level.txt
+src/astromypkg.egg-info/PKG-INFO
+src/astromypkg.egg-info/SOURCES.txt
+src/astromypkg.egg-info/dependency_links.txt
+src/astromypkg.egg-info/top_level.txt
 src/divide/__init__.py
 src/divide/divide_by_ten.py
 src/multiply/__init__.py

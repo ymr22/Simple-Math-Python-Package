@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
-Name: basicpkg
+Name: astromypkg
 Version: 1.0.0
 Summary: A simple Python package
-Home-page: -
+Home-page: https://github.com/ymr22/Python-Package
 Author: Yağmur Üstel
 Author-email: ryagmurustel@gmail.com
-Project-URL: Bug Tracker, -
-Project-URL: repository, -
+Project-URL: Bug Tracker, https://github.com/ymr22/Python-Package
+Project-URL: repository, https://github.com/ymr22/Python-Package
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
