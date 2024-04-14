@@ -1,9 +1,14 @@
 # `astromypkg`
 
-The `astromypkg` is a simple testing example to understand the basics of developing your first Python package.
+Astromypkg is a simple example to help you understand the basics of developing your first Python package.
 
-from multiply.by_ten import multiply_by_ten
-from divide.by_ten import divide_by_ten
+## Purpose
 
-multiply_by_ten(9)
-divide_by_ten(210)
+The purpose of this package is to provide a hands-on example for beginners to learn how to create a Python package from scratch. It includes simple mathematical functions as examples.
+
+## Installation
+
+You can install astromypkg via pip:
+
+```bash
+pip install astromypkg
